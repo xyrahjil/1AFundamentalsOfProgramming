@@ -1,6 +1,6 @@
 public class secondJava {
     public static void main (String[] args){
-        String Fullname = "Nickaerah Jill";
+        String Fullname = "Nickaerah Jill R. Reasonda";
         String Address = "Poblacion, Laoac, Pangasinan";
         String contactnumber = "09456226314";
         int age = 19;
