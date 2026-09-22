@@ -2,7 +2,7 @@ public class firstJava {
 }
 public static void main (String[] args){
     String firstname = "Nickaerah Jill ";
-    String middlename = "Ramat";
+    String middlename = "Ramat ";
     String lastname = "Reasonda";
     String section = "1A";
 
